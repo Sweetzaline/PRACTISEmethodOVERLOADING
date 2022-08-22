@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amit Pegu\\Desktop\\MethodOverloading\\MethodOverloading\\MethodOverloading.csproj",
+      "projectUniqueName": "C:\\Users\\Amit Pegu\\Desktop\\MethodOverloading\\Concept\\MethodOverloading\\MethodOverloading.csproj",
       "projectName": "MethodOverloading",
-      "projectPath": "C:\\Users\\Amit Pegu\\Desktop\\MethodOverloading\\MethodOverloading\\MethodOverloading.csproj",
+      "projectPath": "C:\\Users\\Amit Pegu\\Desktop\\MethodOverloading\\Concept\\MethodOverloading\\MethodOverloading.csproj",
       "packagesPath": "C:\\Users\\Amit Pegu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amit Pegu\\Desktop\\MethodOverloading\\MethodOverloading\\obj\\",
+      "outputPath": "C:\\Users\\Amit Pegu\\Desktop\\MethodOverloading\\Concept\\MethodOverloading\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amit Pegu\\AppData\\Roaming\\NuGet\\NuGet.Config",

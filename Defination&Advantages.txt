@@ -1,0 +1,14 @@
+Method Over-Loading:-
+
+-When a Class have more than 1 method
+-Same Name methods,
+-with multiple Behaviours/ Signature (parameters, sequence of parameter, no. of parameters)
+-Example of Polymorphism
+-Compile Time Polymorphism
+
+Advantages:
+
+-Same name can be used by a program, not to remember too many names of methods
+-using indexes we can search n number of characters.
+-using different signature of parameters we can use the same name for multiple methods
+
