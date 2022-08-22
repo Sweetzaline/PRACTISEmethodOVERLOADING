@@ -5,6 +5,16 @@ Method Over-Loading:-
 -with multiple Behaviours/ Signature (parameters, sequence of parameter, no. of parameters)
 -Example of Polymorphism
 -Compile Time Polymorphism
+-OL is about defining multiple behaviors to a method.
+-We can define Multiple methods with same name by changing the parameters.
+-Can be performed within same class as well as in parent-child classes also.
+-Child class doesn’t need to take permission from the parent class for method overloading.
+-No keyword to create Over-Loading
+-Occurs in a class
+-Static & Private methods can be OL because both are class members.
+-Return type- can or can’t be same, different parameters
+-Compile-time Polymorphism
+
 
 Advantages:
 
